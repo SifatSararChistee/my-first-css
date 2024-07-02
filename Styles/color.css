@@ -1,0 +1,35 @@
+*{
+    margin: 30px;
+}
+
+#mainheading
+{   
+    text-align: center;
+    color: rgb(224, 213, 64);  background-image: url(photo-1496715976403-7e36dc43f17b.jpeg); 
+}
+
+h3{
+    text-align: center;
+    color: rgb(255, 81, 0);
+}
+
+.blg
+ {  
+    color: rgb(71, 227, 255);
+    background-image: url(photo-1496715976403-7e36dc43f17b.jpeg);
+    background-size: cover;
+    border: 10px solid rgb(120, 71, 255);
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 10px ;
+    
+  }
+ol
+{
+    color: aliceblue;
+    background-image: url(photo-1537204319452-fdbd29e2ccc7.jpeg);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid rgb(0, 0, 0); 
+}
+
+
